@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PabloMoredaCE/LeetCode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/PabloMoredaCE/LeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PabloMoredaCE/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PabloMoredaCE/LeetCode/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/PabloMoredaCE/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PabloMoredaCE/LeetCode/tree/master/0383-ransom-note) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PabloMoredaCE/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
