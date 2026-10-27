@@ -1,13 +1,5 @@
 class Solution {
 public:
-
-    bool willMultiplicationOverflow(unsigned int a, unsigned int b) {
-        if (a == 0 || b == 0) {
-            return false; // Multiplication with zero never overflows
-        }
-        return a > numeric_limits<unsigned int>::max() / b;
-    }
-
     bool isPalindrome(int x) {
         if(x < 0) {
             return false;
