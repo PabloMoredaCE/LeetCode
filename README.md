@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PabloMoredaCE/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/PabloMoredaCE/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/PabloMoredaCE/LeetCode/tree/master/0412-fizz-buzz) |
+| [3963-create-grid-with-exactly-one-path](https://github.com/PabloMoredaCE/LeetCode/tree/master/3963-create-grid-with-exactly-one-path) |
 ## Simulation
 |  |
 | ------- |
@@ -80,7 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PabloMoredaCE/LeetCode/tree/master/0070-climbing-stairs) |
-## Memoization
+## Memorization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PabloMoredaCE/LeetCode/tree/master/0070-climbing-stairs) |
