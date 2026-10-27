@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PabloMoredaCE/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/PabloMoredaCE/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/PabloMoredaCE/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/PabloMoredaCE/LeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PabloMoredaCE/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
