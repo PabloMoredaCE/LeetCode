@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PabloMoredaCE/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/PabloMoredaCE/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PabloMoredaCE/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PabloMoredaCE/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PabloMoredaCE/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/PabloMoredaCE/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PabloMoredaCE/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PabloMoredaCE/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PabloMoredaCE/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PabloMoredaCE/LeetCode/tree/master/0070-climbing-stairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PabloMoredaCE/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memorization
 |  |
 | ------- |
