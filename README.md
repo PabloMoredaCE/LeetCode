@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PabloMoredaCE/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/PabloMoredaCE/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PabloMoredaCE/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PabloMoredaCE/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PabloMoredaCE/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/PabloMoredaCE/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/PabloMoredaCE/LeetCode/tree/master/0412-fizz-buzz) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3963-create-grid-with-exactly-one-path](https://github.com/PabloMoredaCE/LeetCode/tree/master/3963-create-grid-with-exactly-one-path) |
 ## Simulation
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PabloMoredaCE/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PabloMoredaCE/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PabloMoredaCE/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PabloMoredaCE/LeetCode/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
