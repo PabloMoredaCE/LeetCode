@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PabloMoredaCE/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/PabloMoredaCE/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0217-contains-duplicate](https://github.com/PabloMoredaCE/LeetCode/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PabloMoredaCE/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/PabloMoredaCE/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PabloMoredaCE/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PabloMoredaCE/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/PabloMoredaCE/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/PabloMoredaCE/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/PabloMoredaCE/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
