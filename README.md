@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PabloMoredaCE/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/PabloMoredaCE/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PabloMoredaCE/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/PabloMoredaCE/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/PabloMoredaCE/LeetCode/tree/master/0412-fizz-buzz) |
