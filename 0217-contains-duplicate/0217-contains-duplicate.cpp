@@ -2,12 +2,12 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        std::set<int> set_nums;
-        for(int num : nums) {
-            if(set_nums.contains(num)) {
+        unordered_set<int> set_nums;
+        for(int i = 0; i < nums.size(); ++i) {
+            if(set_nums.contains(nums[i])) {
                 return true;
             }
-            set_nums.insert(num);
+            set_nums.insert(nums[i]);
         }
         return false;
     }
