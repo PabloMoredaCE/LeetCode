@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PabloMoredaCE/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/PabloMoredaCE/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/PabloMoredaCE/LeetCode/tree/master/0217-contains-duplicate) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PabloMoredaCE/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PabloMoredaCE/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PabloMoredaCE/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/PabloMoredaCE/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PabloMoredaCE/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/PabloMoredaCE/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/PabloMoredaCE/LeetCode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PabloMoredaCE/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PabloMoredaCE/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PabloMoredaCE/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
