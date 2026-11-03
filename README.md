@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PabloMoredaCE/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/PabloMoredaCE/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PabloMoredaCE/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PabloMoredaCE/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PabloMoredaCE/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PabloMoredaCE/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PabloMoredaCE/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PabloMoredaCE/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PabloMoredaCE/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
