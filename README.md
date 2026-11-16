@@ -1,5 +1,66 @@
-# LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+# LeetCode | Data Structures & Algorithms
+
+My personal collection of algorithmic problems solved on [LeetCode](https://leetcode.com/), focused on developing strong problem-solving skills, mastering data structures and algorithms, and writing efficient, well-structured code.
+
+This repository documents my continuous learning journey, from fundamental programming concepts to advanced algorithmic techniques.
+
+## 🎯 Goals
+
+- Strengthen algorithmic thinking and problem-solving abilities (also using [NeetCode](https://neetcode.io)).
+- Master fundamental and advanced data structures.
+- Improve time and space complexity analysis.
+- Explore different algorithmic paradigms and optimization techniques.
+- Prepare for technical interviews and competitive programming challenges.
+
+## Topics & Techniques
+
+| Category | Concepts |
+|----------|----------|
+| **Data Structures** | Arrays, Strings, Linked Lists, Hash Tables, Trees, Heaps |
+| **Searching & Sorting** | Binary Search, Sorting, Two Pointers |
+| **Algorithmic Techniques** | Sliding Window, Prefix Sums, Recursion, Divide and Conquer |
+| **Dynamic Programming** | Memoization, State Transitions |
+| **Graph Algorithms** | DFS, Shortest Paths, Graph Traversal |
+| **Bit Manipulation** | Bitwise Operations, XOR |
+| **Advanced Data Structures** | Segment Trees, Binary Indexed Trees |
+
+## Featured Solutions
+
+Some of the more interesting algorithmic challenges included in this repository:
+
+| Problem | Key Concepts |
+|---------|--------------|
+| [Median of Two Sorted Arrays](https://github.com/PabloMoredaCE/LeetCode/tree/master/0004-median-of-two-sorted-arrays) | Binary Search, Divide and Conquer |
+| [Longest Substring Without Repeating Characters](https://github.com/PabloMoredaCE/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) | Sliding Window, Hash Table |
+| [Palindromic Path Queries in a Tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) | Trees, Segment Trees, Bit Manipulation |
+| [Minimum XOR Path in a Grid](https://github.com/PabloMoredaCE/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) | Dynamic Programming, Bit Manipulation |
+| [Shortest Path with at Most K Consecutive Identical Characters](https://github.com/PabloMoredaCE/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) | Graph Theory, Shortest Paths |
+
+## 📂 Repository Structure
+
+Each problem is stored in its own directory, identified by its LeetCode problem number and title.
+
+Example:
+
+```text
+LeetCode/
+├── 0002-add-two-numbers/
+├── 0003-longest-substring-without-repeating-characters/
+├── 0004-median-of-two-sorted-arrays/
+├── 0070-climbing-stairs/
+├── 0074-search-a-2d-matrix/
+├── ...
+└── README.md
+```
+
+## 🔄 Automatic Synchronization
+
+Solutions are synchronized automatically using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+The following section is automatically generated and groups solved problems by their associated LeetCode topics.
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
