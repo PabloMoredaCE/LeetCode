@@ -107,6 +107,7 @@ The following section is automatically generated and groups solved problems by t
 | [0003-longest-substring-without-repeating-characters](https://github.com/PabloMoredaCE/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/PabloMoredaCE/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/PabloMoredaCE/LeetCode/tree/master/0412-fizz-buzz) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/PabloMoredaCE/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PabloMoredaCE/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PabloMoredaCE/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3963-create-grid-with-exactly-one-path](https://github.com/PabloMoredaCE/LeetCode/tree/master/3963-create-grid-with-exactly-one-path) |
